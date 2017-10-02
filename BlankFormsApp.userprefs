@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{EEA1044E-6239-4775-97D1-0AD0161C6DEE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlankFormsApp/obj/Debug/BlankFormsApp.BlankFormsAppPage.xaml.g.cs">
+    <Files>
+      <File FileName="BlankFormsApp/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="BlankFormsApp/BlankFormsAppPage.xaml" Line="11" Column="40" />
+      <File FileName="BlankFormsApp/App.xaml" Line="7" Column="1" />
+      <File FileName="BlankFormsApp/BlankFormsAppPage.xaml.cs" Line="24" Column="1" />
+      <File FileName="BlankFormsApp/obj/Debug/BlankFormsApp.BlankFormsAppPage.xaml.g.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BlankFormsApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B18269C8-1A81-460F-BE5B-0904F736875B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.BlankFormsApp.iOS>
+  <MonoDevelop.Ide.ItemProperties.BlankFormsApp.Droid PreferredExecutionTarget="Android.Nexus_4_API_22" />
+</Properties>
